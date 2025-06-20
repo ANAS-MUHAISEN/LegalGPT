@@ -32,7 +32,7 @@ Smart Lawyer is an AI-powered legal assistant designed to help users effortlessl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/smart-lawyer.git
+   git clone https://github.com/smart-lawyer.git
    cd smart-lawyer
 Install dependencies:
 
